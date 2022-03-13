@@ -1,11 +1,11 @@
-# Cara Menampilkan Tombol Lengkap Di Termux
+## Cara Tombol Lengkap Di Termux
 
 ### Command:
 
     pkg update && pkg upgrade
     pkg install python
     pkg install git
-    git clone 
+    git clone https://github.com/Mhurifams/termuxk
     cd termuxk
     python termuxk.py
 
