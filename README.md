@@ -1,4 +1,4 @@
-## Cara Tombol Lengkap Di Termux
+## Cara Menampilkan Tombol Lengkap Di Termux
 
 ### Command:
 
