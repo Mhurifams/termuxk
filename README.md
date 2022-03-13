@@ -1,4 +1,4 @@
-## Cara Menampilkan Tombol Lengkap Di Termux
+## Cara Menampilkan Tombol Panah Kanan Kiri Di Termux
 
 ### Command:
 
