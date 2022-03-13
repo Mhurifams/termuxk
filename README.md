@@ -4,7 +4,7 @@
 
     pkg update && pkg upgrade
     pkg install python -y
-    pkg install git
+    pkg install git -y
     git clone https://github.com/Mhurifams/termuxk
     cd termuxk
     python termuxk.py
