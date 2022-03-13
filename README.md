@@ -3,8 +3,8 @@
 ### Command:
 
     pkg update && pkg upgrade
-    pkg install python
-    pkg install git
+    pkg install python -y
+    pkg install git -y
     git clone https://github.com/Mhurifams/termuxk
     cd termuxk
     python termuxk.py
